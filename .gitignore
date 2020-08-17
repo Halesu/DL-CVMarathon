@@ -1,0 +1,7 @@
+homework/data/
+homework/saved_models/
+homework/.ipynb_checkpoints/
+homework/samples_ans/.ipynb_checkpoints/
+homework/samples_ans/*.h5
+homework/samples_ans/*.png
+homework/*.h5
