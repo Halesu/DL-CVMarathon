@@ -4,3 +4,8 @@
 * **D3：顏色相關的預處理 (改變亮度, 色差)**
 * **D4：以圖片為例做矩陣操作 (翻轉, 縮放, 平移)**
 * **D5：透過 OpenCV 做圖並顯示 (長方形, 圓形, 直線, 填色)**
+* **D6：affine transformation 概念與實作**
+* **D7：perspective transformation 概念與實作**
+* **D8：Filter 操作 (Sobel edge detect, Gaussian Blur)**
+* **D9：SIFT 介紹與實作 (feature extractor)**
+* **D10：SIFT 其他應用 (keypoint matching)**
